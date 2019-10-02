@@ -1,0 +1,6 @@
+module Pods_map_with_marker {
+  umbrella header "Pods-map-with-marker-umbrella.h"
+
+  export *
+  module * { export * }
+}
